@@ -241,3 +241,13 @@ exports.login = async (req,res)=>{
 
 //changePassword
 
+exports.changePassword = async (req,res)=>{
+    //get data from req.body
+
+    //get oldPassword , newPassword , confirmNewPassword
+    //validation on password
+    //update password in DB
+    //send mail - password updated
+    //return response
+}
+
