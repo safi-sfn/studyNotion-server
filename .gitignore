@@ -1,0 +1,24 @@
+# Node.js
+node_modules/
+.env 
+
+# Build artifacts
+dist/
+build/
+
+# Test files
+tests/
+
+# IDE files
+.vscode/ 
+
+# Logs
+logs/
+
+# Temporary files
+*.log
+*~
+
+# IDE generated files
+*.suo 
+*.user 
